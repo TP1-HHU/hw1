@@ -1,5 +1,7 @@
 # Homework 1
 
+Due until 2.11.2017, 23:00
+
 ## Problem 1
 
 The series of Fibonacci numbers is defined as
